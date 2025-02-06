@@ -1,1 +1,1 @@
-# Employee-Management-System
+I have developed an Employee Management System using HTML, CSS, PHP, PHPMyAdmin, and MySQL to streamline employee management across different departments. The system features a database with six key columns: emp_id, emp_name, emp_gender, emp_email, emp_department, and emp_address. When a user enters their personal details and clicks "Save," the data is securely stored in the database, ensuring efficient record management.
